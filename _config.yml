@@ -1,0 +1,23 @@
+name: Christen Dybenko
+favicon: null
+layout_spectrum: 0.6162535294424742
+typography_spectrum: 0.3495701919309795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.45187073783017695
+  lightness: 0.5884974377695471
+  saturation: 0.02553043724037707
+  rhythmicContrast: 0.148490019608289
+purpose: []
